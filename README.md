@@ -5,8 +5,6 @@
 ![Redux](https://img.shields.io/badge/Redux-State_Management-764ABC)
 ![Styled Components](https://img.shields.io/badge/Style-Styled_Components-db7093)
 
-> Uma plataforma de comércio eletrônico dinâmica, focada na experiência de compra fluida e no gerenciamento eficiente de dados no Front-end.
-
 ## 📋 Sobre o Projeto
 
 O **EBAC Sports** é uma aplicação de vitrine virtual interativa. O objetivo técnico principal deste projeto foi transcender a manipulação básica de estados locais (`useState`) e implementar uma arquitetura de **Estado Global** robusta.
